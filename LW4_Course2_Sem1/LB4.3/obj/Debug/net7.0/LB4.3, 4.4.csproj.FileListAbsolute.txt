@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Algorythms and structure data\LB4.1\LB4.3\bin\Debug\net7.0\LB4.3, 4.4.exe
+C:\Users\USER\source\repos\Algorythms and structure data\LB4.1\LB4.3\bin\Debug\net7.0\LB4.3, 4.4.deps.json
+C:\Users\USER\source\repos\Algorythms and structure data\LB4.1\LB4.3\bin\Debug\net7.0\LB4.3, 4.4.runtimeconfig.json
+C:\Users\USER\source\repos\Algorythms and structure data\LB4.1\LB4.3\bin\Debug\net7.0\LB4.3, 4.4.dll
+C:\Users\USER\source\repos\Algorythms and structure data\LB4.1\LB4.3\bin\Debug\net7.0\LB4.3, 4.4.pdb
+C:\Users\USER\source\repos\Algorythms and structure data\LB4.1\LB4.3\obj\Debug\net7.0\LB4.3, 4.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Algorythms and structure data\LB4.1\LB4.3\obj\Debug\net7.0\LB4.3, 4.4.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Algorythms and structure data\LB4.1\LB4.3\obj\Debug\net7.0\LB4.3, 4.4.AssemblyInfo.cs
+C:\Users\USER\source\repos\Algorythms and structure data\LB4.1\LB4.3\obj\Debug\net7.0\LB4.3, 4.4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Algorythms and structure data\LB4.1\LB4.3\obj\Debug\net7.0\LB4.3, 4.4.dll
+C:\Users\USER\source\repos\Algorythms and structure data\LB4.1\LB4.3\obj\Debug\net7.0\refint\LB4.3, 4.4.dll
+C:\Users\USER\source\repos\Algorythms and structure data\LB4.1\LB4.3\obj\Debug\net7.0\LB4.3, 4.4.pdb
+C:\Users\USER\source\repos\Algorythms and structure data\LB4.1\LB4.3\obj\Debug\net7.0\LB4.3, 4.4.genruntimeconfig.cache
+C:\Users\USER\source\repos\Algorythms and structure data\LB4.1\LB4.3\obj\Debug\net7.0\ref\LB4.3, 4.4.dll

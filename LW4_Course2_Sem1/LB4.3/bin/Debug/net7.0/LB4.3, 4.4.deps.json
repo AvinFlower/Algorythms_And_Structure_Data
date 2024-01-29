@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LB4.3, 4.4/1.0.0": {
+        "runtime": {
+          "LB4.3, 4.4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LB4.3, 4.4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
